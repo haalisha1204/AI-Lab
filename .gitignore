@@ -1,0 +1,5 @@
+﻿.venv/
+.vscode/
+__pycache__/
+*.py[cod]
+all_datasets/lab06-ocr-handwritten-prescription/
